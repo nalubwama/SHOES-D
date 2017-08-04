@@ -1,0 +1,125 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    background-color: #f2f2f2;
+    height: 670px;
+}
+.two{
+    background-color: blue;
+    height: 670px;
+    background-size: cover;
+    display: block;
+    position:relative;
+    background-color: #fe4c00;
+}
+.box-row{
+    height: 80px;
+    background-color: #f54900;
+}
+.tikimg{
+    margin-left: 120px;
+    width: 75px;
+}
+
+a[href="men"]{
+    margin-left: 250px;
+    margin-top: -60px;
+    color: #ffffff;
+}
+a[href="women"]{
+    margin-left: 310px;
+    margin-top: -60px;
+    color:#fe814c ;
+}
+a[href="boys"]{
+    margin-left: 390px;
+    margin-top: -60px;
+    color:#fe814c ;
+}
+a[href="girls"]{
+    margin-left: 450px;
+    margin-top: -60px;
+    color:#fe814c ;
+}
+a[href="costomize"]{
+    margin-left: 510px;
+    margin-top: -60px;
+    color: #fe814c;
+}
+.imgcart{
+    float: right;
+    margin-right: 160px;
+    margin-top: -75px;
+}
+span[class="badge"]{
+    background-color: #ffffff;
+    color: #fe814c;
+    margin-top: 7px;
+}
+.box1-row{
+    height: 120px;
+}
+.max{
+    padding-top: 40px;
+    font-size: 30px;
+    margin-left: -5px;
+    color: #fe956e;
+}
+.left-arrow{
+    margin-left: 210px;
+    margin-top: -60px;
+        
+}
+a[href="nike"]{
+    margin-left: 10px;
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+}
+.nikeair{
+    margin-top: -60px;
+    margin-left: 260px;
+    font-size: 35px;
+    color: #ffffff;
+}
+.right-arrow{
+    float: right;
+    margin-right: 250px;
+    margin-top: -50px;
+        
+}
+.right-nike{
+    margin-top: -40px;
+    font-size: 30px;
+    float: right;
+    margin-right: -5px;
+    color: #fe956e;
+}
+.box2-row{
+    height: 450px;
+}
+.shoes{
+    width: 600px;
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
